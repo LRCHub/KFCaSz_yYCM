@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "QUEEN",
+  "base_artist": "Kanaria",
+  "createdAt": "2025-12-23T08:16:13.927242Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Queen of Daytona Beach",
+      "artist": "Seaforth feat. Sean Kingston",
+      "has_synced": true,
+      "path": "select/01_Queen_of_Daytona_Beach_Seaforth_feat._Sean_Kingston.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Queen of Daytona Beach",
+      "artist": "Seaforth",
+      "has_synced": true,
+      "path": "select/02_Queen_of_Daytona_Beach_Seaforth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ballad of a Teenage Queen",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/03_Ballad_of_a_Teenage_Queen_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Jean Country Queen (feat. Steve Wariner)",
+      "artist": "Kimberly Kelly feat. Steve Wariner",
+      "has_synced": false,
+      "path": "select/04_Blue_Jean_Country_Queen_(feat._Steve_Wariner)_Kimberly_Kelly_feat._Steve_Wariner.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blue Jean Country Queen (feat. Steve Wariner)",
+      "artist": "Kimberly Kelly",
+      "has_synced": false,
+      "path": "select/05_Blue_Jean_Country_Queen_(feat._Steve_Wariner)_Kimberly_Kelly.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cleopatra, Queen of Denial",
+      "artist": "Pam Tillis",
+      "has_synced": false,
+      "path": "select/06_Cleopatra,_Queen_of_Denial_Pam_Tillis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "High Fashion Queen",
+      "artist": "The Flying Burrito Brothers",
+      "has_synced": true,
+      "path": "select/07_High_Fashion_Queen_The_Flying_Burrito_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Music City Queen (feat. The B-52's)",
+      "artist": "Miranda Lambert feat. The B-52's",
+      "has_synced": true,
+      "path": "select/08_Music_City_Queen_(feat._The_B-52's)_Miranda_Lambert_feat._The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Music City Queen",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/09_Music_City_Queen_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Queen of Hearts (Rerecord)",
+      "artist": "Juice Newton",
+      "has_synced": true,
+      "path": "select/10_Queen_of_Hearts_(Rerecord)_Juice_Newton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Queen Of Hearts",
+      "artist": "Juice Newton",
+      "has_synced": true,
+      "path": "select/11_Queen_Of_Hearts_Juice_Newton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Queen of My Double Wide Trailer",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/12_Queen_of_My_Double_Wide_Trailer_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Queen Of My Double Wide Trailer",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/13_Queen_Of_My_Double_Wide_Trailer_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Queen Of My Double Wide Trailer (Album Version)",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/14_Queen_Of_My_Double_Wide_Trailer_(Album_Version)_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Queen of Memphis (Remastered Album Version)",
+      "artist": "Confederate Railroad",
+      "has_synced": true,
+      "path": "select/15_Queen_of_Memphis_(Remastered_Album_Version)_Confederate_Railroad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "QUEEN",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_QUEEN_Kanaria.txt"
+    }
+  ]
+}
