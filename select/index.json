@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "QUEEN",
   "base_artist": "Kanaria",
-  "createdAt": "2025-12-23T08:16:13.927242Z",
+  "createdAt": "2026-03-23T02:35:55.369629Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "Kanaria",
       "has_synced": false,
       "path": "select/pl_01_QUEEN_Kanaria.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "QUEEN",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/localdb_01_QUEEN_Kanaria.txt",
+      "repo_name": "KFCaSz_yYCM"
     }
   ]
 }
